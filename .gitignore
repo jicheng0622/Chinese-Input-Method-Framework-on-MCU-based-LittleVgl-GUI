@@ -1,3 +1,10 @@
+# Compiled Objects Folder
+/flexspi_nor_sdram_debug/
+/output/
+
+# Temp Keil Workspace files
+*.nxa07165
+
 # Prerequisites
 *.d
 
